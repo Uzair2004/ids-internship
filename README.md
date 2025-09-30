@@ -25,7 +25,7 @@ A simple Machine Learning-based IDS that detects malicious network activity base
 - `/models`: Saved ML models
 - `/results`: Visualizations and reports
 
-## 🛠️ Setup
+## Setup
 ```bash
 pip install -r requirements.txt
 jupyter notebook
